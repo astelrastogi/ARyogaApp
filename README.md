@@ -2,6 +2,8 @@
 
 An augmented reality Unity Application that guides the user through Yoga postures. The application lets you complete a round of Surya Namaskar or Sun Salutation is a sequence of 12 powerful Yoga poses or asanas
 
+Built as a part of one of themes (Mental Health) for Devsoc DevFest Hackathon 2020 submission. 
+
 Technologies used
 - Unity Game Engine
 - Vuforia SDK 
